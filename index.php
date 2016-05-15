@@ -34,8 +34,8 @@
 			</div>
 		</nav>
 		<div class='container-fluid' id='main'>
-			<div class='col-md-10' id='table-content'>".getData()."</div>
-			<div class='col-md-2'>
+			<div class='col-md-9' id='table-content'>".getData()."</div>
+			<div class='col-md-3'>
 				<div class='panel panel-primary'>
 					<div class='panel-heading'>Add a Task</div>
 					<div class='panel-body' >
